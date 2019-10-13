@@ -91,7 +91,7 @@ Sometimes, parallel coordinate plots are very helpful in graphing time series da
 ## Considerations
 
 ### When do I use clustering? 
-Generally, you use clustering when you want to observe a pattern in a set of cases with some specific properties. This may include divvying up all variables into clusters based on their value for a specific categorical variable. But you can even use a continuous variable; for example, dividing all cases into two sections based on some continuous variable *height*: those who have a height greater than 150cm and those who do not. 
+Generally, you use clustering when you want to observe a pattern in a set of cases with some specific properties. This may include dividing up all variables into clusters based on their value for a specific categorical variable. But you can even use a continuous variable; for example, dividing all cases into two sections based on some continuous variable *height*: those who have a height greater than 150cm and those who do not. 
 
 Let us look at an example using our iris dataset, clustering on the "Species" column:
 
